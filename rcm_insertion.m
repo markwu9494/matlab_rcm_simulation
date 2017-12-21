@@ -1,0 +1,1 @@
+function ed_position=rcm_insertion(distance)
