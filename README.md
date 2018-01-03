@@ -6,14 +6,14 @@ Dear Professor Wang,
 Nice to meet you! I appreciate that you read my letter during your busy time.
 
 My name is Qiuhui Li. I am an undergraduate student major in communication engineering at 
-'Chongqing University' , China and I will get my Bachelor degree in July 2018.
+`Chongqing University` , China and I will get my `Bachelor degree` in `July 2018`.
 I read your paper “SGated Bi-directional CNN for Object Detection”, 
 which is fascinating and appealing to me, because machine learning 
 especially the deep learning is an intriguing area that I want to devoted myself to. 
 I sincerely hope to become your PH.D in the future.
 
 
-#Rich research experience about machine learning and building models
+# Rich research experience about machine learning and building models
 I am proficient in Python and have experience in data visualization.
 
 In Junior year, as a public funded exchange student at the National Central University. 
@@ -37,7 +37,7 @@ I believe that my learning of Artificial Intelligence in these two years will la
 solid foundation for me to enter your laboratory to research and study further, 
 and my efforts and new ideas could be quite helpful to what the research topic demands.
 
-#Strong learning ability and Sheer tenacity
+# Strong learning ability and Sheer tenacity
 * During the exchange of learning, I challenged myself to select two master courses 
 Teachers did not suggest me to do due to the difficulties. I was not afraid instead 
 studied harder and got 98 and 96 eventually, which outstripped the majority of masters.  
