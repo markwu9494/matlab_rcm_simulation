@@ -1,7 +1,4 @@
-# matlab_rcm_simulation
-Simulation of RCM for serial 6-DOF robot arms. <br>
-`Version 1.0`
-Dear Professor Wang,
+# Dear Professor Wang,
 
 Nice to meet you! I appreciate that you read my letter during your busy time.
 
